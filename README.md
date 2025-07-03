@@ -35,8 +35,6 @@ Analyze YouTube video data to uncover:
 - **NumPy** – numerical operations
 - **Matplotlib** & **Seaborn** – data visualization
 
-> ⚠️ This version avoids advanced APIs and keeps it beginner-friendly by using `.csv` files.
-
 ## 📌 Features
 
 - Video-level statistics summary
